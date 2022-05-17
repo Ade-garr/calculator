@@ -80,6 +80,11 @@ img {
 	color: black;
 }
 
+.equal {
+	background-color: orange;
+	color: black;
+}
+
 .reset {
 	background-color: rgb(219, 47, 47);
 	color: white;
